@@ -1,0 +1,20 @@
+body {
+  background-color: antiquewhite;
+}
+
+main {
+  height: 100vh;
+  display: flex;
+  /* horizontal */
+  justify-content: center;
+  /* vertical */
+  align-items: center;
+}
+
+#imagen {
+  width: 400px;
+}
+
+button {
+  padding: 0;
+}
